@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Syed Farhan Ali
+#  Hi, I'm Syed Farhan Ali
 
 ### 💻 Software Engineer | AI Automation Enthusiast | Future AI Builder
 
